@@ -19,3 +19,7 @@ npm run build
 ```
 npm run lint
 ```
+
+### Features TODO:
+[ ] camera permissions
+[ ] QR share screen
