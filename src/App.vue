@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <PaintBall title="paintball" v-if="layout === 'landing'"/>
-    <PaintBallMap title="paintballmap" v-else-if="layout === 'map'"/>
+    <PaintBallMap title="Paintball AR" v-else-if="layout === 'map'"/>
   </div>
 </template>
 
@@ -35,7 +35,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  padding-top: 60px;
 }
 .site-logo {
   max-width: 200px;
