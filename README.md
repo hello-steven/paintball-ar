@@ -1,5 +1,7 @@
 # paintball-ar
 
+[![CircleCI](https://circleci.com/gh/whiteboxpub/paintball-ar.svg?style=svg)](https://circleci.com/gh/whiteboxpub/paintball-ar)
+
 ## Project setup
 ```
 npm install
@@ -21,5 +23,7 @@ npm run lint
 ```
 
 ### Features TODO:
+
 [ ] camera permissions
+
 [ ] QR share screen
